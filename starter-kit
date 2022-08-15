@@ -1,0 +1,3 @@
+friends = ['Taylor', 'Alex', 'B1k', 'Eric']
+for friend in friends:
+    print("Wassam " + friend)

@@ -1,3 +1,8 @@
 friends = ['Taylor', 'Alex', 'B1k', 'Eric']
+// listing out the friends
+
 for friend in friends:
-    print("Wassam " + friend)
+//for loop to step through each name
+   
+   print("Wassam " + friend)
+//desired output of the program

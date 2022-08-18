@@ -1,8 +1,10 @@
 length = 50
 #set length to 50
+#assigned a value to a variable
 
 width = 5
 #set width to 5
+#assigned a value to a variable
 
 area = length * width
 #formula used to find area

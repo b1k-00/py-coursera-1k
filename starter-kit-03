@@ -1,4 +1,4 @@
 name = "Mr.1k"
-    //initializing the name of user
+    #initializing the name of user
 print ("Hello " + name)
-//making the program print hello + initialized name
+#making the program print hello + initialized name

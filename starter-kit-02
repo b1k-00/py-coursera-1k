@@ -1,5 +1,5 @@
 for i in range(10):
-//for statement in a controlled loop
+#for statement in a controlled loop
 
     print("That boy B too 1k")
-//desired output of program
+#desired output of program

@@ -1,0 +1,7 @@
+base = 6
+height = 3
+
+area = (base*height)/2
+#even though my variable is a string I am able to perform operations on it
+
+print("The area of the triangle is: " + str(area))

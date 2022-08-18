@@ -1,0 +1,11 @@
+length = 50
+#set length to 50
+
+width = 5
+#set width to 5
+
+area = length * width
+#formula used to find area
+
+print(area)
+#tell program what to print

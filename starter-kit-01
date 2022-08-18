@@ -1,7 +1,8 @@
 the_world_is_flat = True
-//
+#initializing the statement
+
 if the_world_is_flat:
-//if statements
+#if statements
 
     print("Kyrie Irving told me!")
-//desired output of the program
+#desired output of the program

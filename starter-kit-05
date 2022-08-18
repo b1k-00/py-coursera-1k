@@ -1,0 +1,8 @@
+name = "B1k"
+#initialize the name object
+
+goat = "all time"
+#initialize the goat object
+
+print(name + " is the greatest of " + goat)
+#what do you want the program to output

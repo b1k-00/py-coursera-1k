@@ -1,0 +1,9 @@
+def lucky_number(name):
+#function that will be used to hold the name
+
+    number = len(name) * 9
+    print("HEllo " + name + ". Your lucky number is " + str(number))
+#because its a number will have to put string so we can get the actual length
+    
+lucky_number("gang")
+lucky_number("b1k")
